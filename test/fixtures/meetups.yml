@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-11-12
+  time: MyText
+  location: MyString
+  comments: MyString
+  friend_id: 1
+
+two:
+  date: 2019-11-12
+  time: MyText
+  location: MyString
+  comments: MyString
+  friend_id: 1
